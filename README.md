@@ -1,5 +1,5 @@
-### 👋 Hi, I'm mobile app develope using Android and iOS.
-He dreams to change the world while working with interesting people and amazing projects.
+### 👋 Hi, I'm studying  mobile app develope using Android and iOS.
+I dream of changing the world by doing amazing projects with interesting people.
 
 <a href="mailto:tjdwjdgus99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
