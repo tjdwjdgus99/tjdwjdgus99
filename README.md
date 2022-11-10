@@ -11,5 +11,4 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdwjdgus99&show_icons=true&theme=radical)
