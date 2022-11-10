@@ -1,3 +1,6 @@
+## ME
+<a href="mailto:tjdwjdgus99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ### 👋 Hi, I'm mobile app develope using Android and iOS.
 He dreams to change the world while working with interesting people and amazing projects.
 
